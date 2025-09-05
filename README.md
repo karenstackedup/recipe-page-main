@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # recipe-page-main
 Frontend Mentor Challenge
 =======
 # Frontend Mentor - Recipe page
 =======
-# Frontend Mentor - Recipe page solution
->>>>>>> 367aa2f (Replace default README with custom readme)
 
 This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -119,7 +115,4 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
->>>>>>> 935eecf ( Initial commit with challenge files)
-=======
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
->>>>>>> 367aa2f (Replace default README with custom readme)
+
