@@ -56,7 +56,7 @@ table {
 }
 
 table tr td {
-  border-bottom: 0.15px solid #493621;
+  border-bottom: 0.2px solid #493621;
 }
 
 table tr td {
@@ -82,11 +82,9 @@ table tr td:nth-child(2) {
 @media (min-width: 768px) {
   .recipe-img {
     padding: 1.25rem;
-    /* margin: 0.75rem 1.75rem; */
     box-sizing: border-box;
   }
   table {
     width: 90%;
-    /* margin: 0 auto; */
   }
 }
