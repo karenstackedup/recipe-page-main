@@ -49,21 +49,23 @@ section li,
 section p {
   line-height: 1.7rem;
 }
+
 table {
+  width: 100%;
   border-collapse: collapse;
-  max-width: 100%;
+}
+
+table tr td {
+  border-bottom: 0.15px solid #493621;
 }
 
 table tr td {
   padding: 0.75rem;
 }
+
 table tr td:nth-child(2) {
   color: #8b5c2a;
   font-weight: bold;
-}
-
-table td {
-  border-bottom: 1px solid #333;
 }
 
 .attribution {
@@ -85,6 +87,6 @@ table td {
   }
   table {
     width: 90%;
-    margin: 0 auto;
+    /* margin: 0 auto; */
   }
 }
