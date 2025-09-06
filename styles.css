@@ -56,8 +56,7 @@ table {
 }
 
 table tr td {
-  border-bottom: 1px solid #493621;
-  opacity: 0.55;
+  border-bottom: 1px solid hsl(30, 18%, 87%);
 }
 
 table tr td {
@@ -81,9 +80,17 @@ table tr td:nth-child(2) {
 
 /* Bigger Screens */
 @media (min-width: 768px) {
+  html {
+    background-color: #f3e6d8;
+  }
+  body {
+    max-width: 80%;
+    margin: 0 auto;
+  }
   .recipe-img {
     padding: 1.25rem;
     box-sizing: border-box;
+    border-radius: 1.5rem;
   }
   table {
     width: 90%;
