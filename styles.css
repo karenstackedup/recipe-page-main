@@ -6,6 +6,7 @@ body {
   padding: 0;
   margin: 0;
   color: #493621;
+  background: #fff;
   width: 100%;
   /* font-family: "Times New Roman", Times, serif; */
   font-family: "Caudex", serif;
@@ -86,6 +87,7 @@ table tr td:nth-child(2) {
   body {
     max-width: 80%;
     margin: 0 auto;
+    padding: 1.75rem;
   }
   .recipe-img {
     padding: 1.25rem;
