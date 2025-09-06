@@ -17,7 +17,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://karenstackedup.github.io/recipe-page-main/)
+- Live Site URL: [Recipe Page](https://karenstackedup.github.io/recipe-page-main/)
 
 ### Built with
 
@@ -38,4 +38,4 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Author
 
-- Website - [karenstackedup](https://github.io/karenstackedup)
+- Website - [karenstackedup](https://github.com/karenstackedup)
