@@ -1,26 +1,29 @@
+html {
+  font-size: 100%;
+}
+
 body {
   padding: 0;
   margin: 0;
-  color: #333;
+  color: #493621;
   width: 100%;
-  line-height: 1.5rem;
-  font-family: "Times New Roman", Times, serif;
+  /* font-family: "Times New Roman", Times, serif; */
+  font-family: "Caudex", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
+section {
+  margin: 0.75rem 1.75rem;
 }
 
 img {
   width: 100%;
 }
 
-section {
-  margin: 0.5rem 1rem;
+section h1 {
+  font-size: 2.5rem;
+  color: black;
 }
 
 section h2 {
@@ -29,24 +32,45 @@ section h2 {
 
 .pink-background {
   background-color: rgb(253, 231, 235);
-  border-radius: 5px;
-  padding: 1.2rem;
-}
-.pink-background h3 {
-  color: purple;
+  border-radius: 0.5rem;
+  padding: 1rem;
 }
 
+.pink-background h3 {
+  color: rgb(104, 0, 104);
+}
+
+.pink-background ul {
+  padding-left: 0;
+  margin-left: 1.5rem;
+}
+
+section li,
+section p {
+  line-height: 1.7rem;
+}
 table {
   border-collapse: collapse;
 }
 
 table tr td {
-  padding-left: 10px;
+  padding: 0.75rem;
 }
 table tr td:nth-child(2) {
   color: #8b5c2a;
+  font-weight: bold;
 }
 
 table td {
   border-bottom: 1px solid #333;
+}
+
+.attribution {
+  font-size: 0.75rem;
+  text-align: center;
+}
+
+.attribution a {
+  color: #000;
+  text-decoration: none;
 }
