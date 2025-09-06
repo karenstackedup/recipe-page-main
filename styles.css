@@ -56,7 +56,8 @@ table {
 }
 
 table tr td {
-  border-bottom: 0.2px solid #493621;
+  border-bottom: 1px solid #493621;
+  opacity: 0.55;
 }
 
 table tr td {
