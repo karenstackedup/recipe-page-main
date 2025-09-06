@@ -17,8 +17,8 @@ section {
   margin: 0.75rem 1.75rem;
 }
 
-img {
-  width: 100%;
+.recipe-img {
+  max-width: 100%;
 }
 
 section h1 {
@@ -51,6 +51,7 @@ section p {
 }
 table {
   border-collapse: collapse;
+  max-width: 100%;
 }
 
 table tr td {
@@ -73,4 +74,17 @@ table td {
 .attribution a {
   color: #000;
   text-decoration: none;
+}
+
+/* Bigger Screens */
+@media (min-width: 768px) {
+  .recipe-img {
+    padding: 1.25rem;
+    /* margin: 0.75rem 1.75rem; */
+    box-sizing: border-box;
+  }
+  table {
+    width: 90%;
+    margin: 0 auto;
+  }
 }
